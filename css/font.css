@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+.pic_1_a_word{
+    text-align: center;
+    font: 24px/178px  bold;
+    font-family: "微软雅黑";
+}
+
+.main_font {
+    font-size: 16px;
+    -webkit-text-shadow: #DCDEE0 6px 3px 0;
+    -moz-text-shadow: #DCDEE0 6px 3px 0;
+    text-shadow: #DCDEE0 6px 3px 0;
+    color: #777779;
+    font-weight: bold;
+}
+
+.main_font_en {
+    font-size: 12px;
+    -webkit-text-shadow: #DCDEE0 6px 3px 0;
+    -moz-text-shadow: #DCDEE0 6px 3px 0;
+    text-shadow: #DCDEE0 6px 3px 0;
+    color: #777779;
+    font-weight: bold;
+}
+
+.info_me_right{
+    font-size: 16px;
+    line-height: 24px;
+    word-spacing: 2px;
+}
+
+.info_main{
+    font-size: 18px;
+    font-weight: bold;
+    font-family: "微软雅黑";
+    color: #008b8b;
+}
+
+
+.copyRight{
+    line-height: 50px;
+    color: #aaa;
+}
