@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{Dojo-1.8.3, ExtJS Core-3.1.0, Knockout-2.2.1, Modernizr-2.6.2, MooTools-1.4.5, Prototype-1.7.1, YUI-3.8.1, jQuery UI-1.10.1, jQuery-1.9.1, script.aculo.us-1.9.0}" />
+    <includedPredefinedLibrary name="EcmaScript for XML" />
+    <includedPredefinedLibrary name="Node.js Globals" />
+    <includedPredefinedLibrary name="WebGL" />
+  </component>
+</project>
+
